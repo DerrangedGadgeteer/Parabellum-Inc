@@ -1,4 +1,4 @@
-![Parabellum Splash Page](image assets/PBCoverCardBack.png "Parabellum Inc.").
+![Parabellum Splash Page]("image assets"/PBCoverCardBack.png "Parabellum Inc.").
 
 # Parabellum-Inc
 Parabellum inc. is a resource-management focused war game set in a futuristic galaxy where humanity has spread and colonized worlds across the stars. Giant conglomerate corporations and their PMC affiliates wield the greatest power across the galaxy, and you play the role of an "Executive Sector Manager," a middle-management position that involves coordinating military forces that secure your company's primacy.
