@@ -5,3 +5,4 @@ Parabellum inc. is a resource-management focused war game set in a futuristic ga
 
 A game of Parabellum inc. is called a Campaign. Each Campaign consists of a series of Scenarios, which represent short skirmish-like battles with their own Maps, Objectives, and Special Circumstances. Each Campaign begins with a fixed Budget which the players must use to pay for Units, their associated costs, and upkeep, while they try to complete the objectives and exhaust their opponents resources.
 
+As players destroy their opponents' units, take scenario objectives, and eliminate their opponents from the map, new Business Opportunites will open up to them 
