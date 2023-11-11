@@ -1,0 +1,212 @@
+﻿Parabellum Inc.
+Se vis lucrum, para bellum.
+
+As days and years march on, the reach and power of humanity grows.  No longer constrained by the lively blue marble of our birth, mankind blanketed the stars.  Bringing with us our technology, our thirst for knowledge, our adventurous spirit, our lust for power.  
+
+Beneath everything, however, humanities' greed runs the deepest.  The concept of government followed Humanity out into the galaxy, but it's authority did not.  Nominally, all of mankind bends the knee to Grand Old Earth, and it's Order of Nations and Systems.  but in reality, the power of Mother Earth rests with 11 companies.
+
+These companies pull strings in governments the galaxy over, making them dance like puppets to the amusement of their shareholders.  Planets are conquered and either turned into gilded commercial distopias, or stripped to their mantles and used to build the industrial empires that rule the galaxy.
+
+You are an Executive Sector Manager.  Your job is to protect the business interests of your company from any and all threats, from without or within.  The tools at your disposal are the vast professional armies provided conditionally by the company.  That condition, of course, is that you generate value for the company with your campaign. 
+
+ The Board expects a return on their investment.  With success, comes riches and influence kings and tycoons of old could only imagine, but if you don't deliver, you'll be relegated to the killing fields yourself.
+
+Gameplay Thesis: You are given limited scope and limited monetary resources, and you must both survive, and generate more value by claiming resources, salvage, and territory.  Victory is achieved by completing your mission with more total cash value than you started with.  Defeat is inflicted by causing your opponent to run out of  money with which to wage war.
+
+Gameplay consists of a Theater, made of some number of map/scenario combinations called skirmishes. Each Theater represents a planetary territory, and includes a number of skirmish maps, (6-20) and a booklet of skirmish scenarios.  Each Skirmish is selected randomly, using dice and a lookup table.  Each Skirmish has different victory conditions, victory rewards, and ends either when a player achieves one of the victory conditions, eliminates all the units the opponent has on the map, or when a player withdraws, conceding the skirmish to their opponent, but saving their units and resources for the next skirmish.
+
+The theater is concluded when either one player is completely broke at the beginning of mustering for a skirmish, or surrenders, as they believe they lack the resources to win any more skirmishes.  
+
+You control an army of miniature soldiers and vehicles, as well as special (optional) off-board assets.  For each on-map unit, you have a miniature to signify it's location, and a status card to help track it's attributes.  Your unit's status cards are kept behind a screen on your side of the board, and are associated with a mini via a color code.  Each status card specifies which kind of mini should be used.  Off-board units like air support and orbital resources, are signified with a card only.  
+
+Every unit has an initial cost, first in credits (the money of the game) and second in manpower. (Available soldiers)  At the opening of the theater, you have a budget with which to purchase units, and to hire the manpower to staff them.  
+
+Every unit also has various ongoing support costs:
+
+  First, every unit under your control on the field requires supplies, which need to be purchased.  They can be purchased either at the opening of the theater, during the game if the situation allows, or carried over from the previous skirmish.  Supplies represent the fuel required for vehicles, the food and medical supplies required by the manpower, and various miscellany including spare parts, uniforms, tools, and the like.  
+
+On a unit's status card, it's supply situation is signified with a scale and a token.  Different units have different amounts of supplies they can carry before needing to be resupplied.  If a unit moves during it's turn, the token is moved down one space at the end of the turn.  If a unit has zero supplies, it is "stranded" and cannot move or make attacks until it is resupplied.   
+
+Second, military units require ammunition.  Like regular supplies, ammunition is represented on the unit's status card by a scale and token.  If a unit makes an attack on it's turn, it's ammunition token is moved down one space at the end of the turn.  If a unit counterattacks any number of times on an opponent's turn, it's ammunition token is moved down one space at the end of the opponent's turn.  If a unit has zero ammunition, it cannot make attacks or counterattacks.  It does however, still count as holding it's position for purposes of occupied terrain.  
+
+Supplies and ammunition have a presence on the board as well, signified by sub-unit sized miniatures.  These cannot move by themselves, but can be carried by other units on the board.  In addition, they can be cached in an appropriate terrain feature like a town, city, or base.  or simply dumped in the open.  Supplies and ammunition left unprotected can be captured and used or taken by an opponent's unit.  Supplies can be targeted for attack by either player, and ammunition that is attacked will explode, damaging nearby units.
+
+The game flow goes as follows: 
+At the beginning of the game, both players have an equal budget to spend on units, assets, and supplies.  The first phase of the game involves looking over the Theater's information brief, and spending some quantity of the budget on Units, Manpower, and supplies.  How much is bought and on which aspect, is up to the player, and is done behind a privacy screen, without the knowledge of the opponent.  Next, the players roll on the theater's skirmish chart to reveal the first map and scenario.    Finally, the players muster their troops and play can begin.  
+
+Mustering is the process of bringing a unit from "reserves" (where the unit is placed when first bought) assigning it manpower, supplying it, and arming it, before placing it on the map.  Each unit must be fully staffed, fully supplied, and fully armed before it can be placed onto the map.
+
+Mustering is done at the beginning set-up phase of a skirmish, and players may deploy units anywhere within their battle lines free of charge at this stage.  During a skirmish, more units can be bought, mustered, and deployed depending on the circumstances of the skirmish scenario. (Generally limited in number and at a cost)
+
+Manpower is fairly self-explanatory; soldiers who carry weapons, drive vehicles, and do the actual fighting.  Personell are divided onto squads of ten, and can be recruited between skirmishes for a cost of 100 credits.  Personell can also be recruited during a skirmish, depending on the scenario and situation, primarily from occupied cities and towns in the form of irregulars.  
+
+Irregulars are personnel hired from, and tied to a city on the skirmish mat.  A token is placed on the city from which they are hired to signify that the city has provided a unit of irregulars.  A city marked with that token can not provide another irregular unit, nor can it provide supplies or ammunition as it otherwise could.  If a unit of irregulars is returned to the city of it's origin, the unit can be disbanded and the token removed.
+
+Irregulars can be moved and ordered to attack just like any normal unit.  They can also be used to man any non-combat vehicle (trucks, tractors), as well as any light combat vehicles (armored cars, recon units, etc.) Irregulars cost the same on upkeep as regular infantry but cost an additional 500 credits on their first turn.  
+
+The game is played on a 1"/25mm grid.  The grid is populated with stand-up terrain pieces with specific dimensions, and which serve both aesthetic and mechanical purposes.  The grid is labeled with letters horizontally with relation to the players, and numbers going from one player's rear lines to the other's.  
+
+Units are represented by miniatures on the game board, and are scaled to interact with each other, take up space, and appear distinct from each other.  There are 4 sizes of piece, each corresponding to a class of unit.
+
+  1"X1" (25x25) pieces are for armed combat vehicles and large equipment 
+-Tank
+-IFV
+-SPG
+-APC
+-Assault Walker
+-AA Rockets
+-Rocket Artillery
+
+  1"X ½" (25x12) pieces are for smaller vehicles 
+-Supply Truck
+-Fuel Truck
+-Recon Vehicle
+-Technical
+-Civilian Vehicle
+-Artillery
+-Tractor
+-Bridge Vehicle
+-Engineering Walker
+-Scout Walker 
+
+  ⅜"X ⅜" (10x10) pieces are for Personnel units
+-Infantry
+-Irregular Infantry
+-Mortar Team
+-Heavy Infantry
+-Mounted Infantry
+-Augmented Infantry
+
+  ¼" X ¼" (6x6) pieces are for supplies and similar
+-Fuel
+-Supplies
+-Vehicle Barricade
+-Personnel Barricade
+-Sandbags
+
+Each miniature has a "mast" on which is placed a color code "flag." The "flags" are beads which are unique to each unit, and allow the controlling player to keep track of which miniatures are tied to which unit cards behind their screen.  The specific colors used aren't important, but they should be unique and identifiable to the specific unit, and it's best to select a signature player color for the top spot on each mini.  
+
+As stated, units take up space.  If a unit is to move into another square, there must be space for it in the destination square.  If you wish to move a unit through another square occupied by another unit where there isn't space, the other unit will need to be moved out of the way first.  If a destination square is blocked by supplies, ammunition, or barricades, they must be cleared before the unit can continue moving.  
+
+In the case of supplies and ammunition, any unit may move the supplies into an adjacent unoccupied square at the cost of one movement per piece.  Units with a transport capacity may also load up and begin carrying supplies instead, also at a cost of one movement per piece.  
+
+In the case of barricades, barricades may be destroyed by attacking them during one of the attack phases.  
+Terrain pieces are card-like, and stand up along the lines in between grid squares.    
+
+The game may be played on an actual sculpted play field, with 3d terrain, actual hills, valleys, etc.  So long as the field has a 1" (25mm) square grid projected onto it, and all terrain conforms to the specs that follow, to the satisfaction of both players.  A sculpted play field is not required however, and it will be assumed henceforth that the game is played on a flat board, with only card terrain.
+
+Terrain is placed on the grid lines separating individual squares.  With the exception of flat terrain, each terrain card is folded to stand upright, and is done so in one of three orientations: 
+ Tee: the card stands up with one face upright, and a small support on one side.  The card obscures vision from a perpendicular direction to the upright face, but does not obscure vision parallel to the upright face.  This Orientation allows units to be placed in squares adjacent to the upright face, these squares are considered "in cover" from units attacking perpendicularly through the upright face, but not from units attacking parallel to the upright face.
+ Cross: the card stands up with two vertical faces perpendicular to each other in a crossed configuration.  The card obscures vision in both directions.  This Orientation allows units to be placed in squares adjacent to both upright faces, and these squares are considered to be In Cover from units attacking through either upright face.
+ Block: the card stands upright by being folded into a square or rectangular prism, enclosing a number of squares depending on it's dimensions.  The block excludes any units from being placed on it's interior squares, and regular attacks cannot be made between units on different sides of a block. Any unit in squares adjacent to a block is considered to be in cover from special attack, but is not considered to be in cover from regular attacks.
+
+Flat terrain is printed onto the play field instead of using upright cards or sculpted models.  Flat terrain does not provide cover, instead it provides penalties or bonuses to movement, depending on the particular terrain and unit.  It should clearly represent the terrain described, and any ambiguity should be cleared up before play by providing a map legend.
+
+Cover is an attribute given to units adjacent to applicable terrain pieces.  If a unit attempts to make a regular attack through one of the upright faces of a piece of terrain, their attack suffers a penalty to damage, as does the defender's counterattack.  If a unit is taller than the Terrain it is covered by, both of these penalties are reduced as follows: Total cover>½ cover.  ¾ cover>¼ cover.  ½ cover or less>no cover.  If a unit in cover is targeted by a special attack, the special attack suffers a penalty to damage regardless of the direction from which the special attack was launched 
+
+Basic Flat Terrain includes:
+ Field: Clear, open space, no penalty or bonuses to movement or cover
+ Road: 2x movement speed for tracked vehicles and walkers, 4x movement for wheeled vehicles.
+ Rubble: 1/2x movement for wheeled vehicles
+ Cragg (rocky): 1/2x movement for tracked vehicles.  May be crossed by wheeled vehicles at a rate of 1 square per turn.  
+ Swamp: Impassible by wheeled or tracked vehicles.  1/2x movement for Amphibious vehicles.  1/4x movement for naval vehicles.  May be crossed by all other units at a rate of 1 square per turn.   
+ River (deep): Impassible by units that are not naval or amphibious.  Naval and amphibious units suffer no penalty or bonus.
+ River (ford): May be crossed by units that are not naval or amphibious at a rate of 1 square per turn.  A unit that runs out of fuel while on a ford square must roll one defense die, and suffer one loss for every point below six.  If an engineering unit or tractor is adjacent, instead one loss for every point below three.  May be navigated by any naval or amphibious unit without penalty.
+ River (rapids): Impassible by any unit.  Requires a bridge to be crossed.
+ Beach: 1/4x movement for wheeled vehicles  1/2x movement for all other units that are not amphibious.  Impassible by Naval units.
+ Open water: Impassible by units that are not naval or amphibious.  Naval and Amphibious units suffer no penalty or bonus.  
+
+Basic Tee terrain includes:
+ Scrubland: ½" (12mm) tall, ½ cover, 
+ Hedgerow: 1" (25mm) tall, ¾ cover,  
+ Retaining walls: ½" (12mm) tall, total cover,   
+ Trenches/Sandbags: ½" (12mm) tall, ¾ cover, .
+
+At the beginning of the game, both players have territory on the board within which they can place the units they have bought and mustered.  The defending player places their forces first, and is permitted privacy to place their pieces anywhere within the battle lines set by the map and scenario for their side.  The attacking player then joins the table and places their forces. 
+
+Players may flip a coin or roll dice to determine who goes first in the first skirmish.  In Subsequent skirmishes, the victor of the previous skirmish chooses who goes first.  
+
+Each turn is broken up into three gameplay phases and one boardroom phase.  First, is the movement phase, where the player selects which units to move and where.  During this phase, supplies and ammunition can also be delivered to or claimed by units to replenish their stores.  After a player has moved all their units, the next phase begins.  
+
+After Movement, the next phase is the special attack phase.  In this phase the player makes their indirect fire attacks (artillery, naval guns,) makes attacks with their off board assets (air strikes, rockets, orbital strikes,) places any reinforcements that are ready to arrive (air drop, amphibious landing, orbital pods,) calls any recon missions or sorties, and completes any other effect that specifies it occurs during the special attack phase.
+
+The final phase of the turn is the direct attack phase, where most units make their attacks against any squares they threaten within their range.  After the player completes all the attacks they intend to make that turn, their turn is complete, supply and ammunition counts are ticked down,  and their opponent's turn begins.  
+
+Finally, the Boardroom phase is when a player may put in requests to purchase new units and manpower to add to their reserves at the end of their turn.  They can muster and dispatch reinforcements for deployment on the special phase of their next turn, and complete any other action that specifies it must be done during the Boardroom phase. 
+
+When moving units, it is expected that each player moves one piece at a time.  Units move only orthogonally, and may move a number of squares equal to their movement speed on a turn.  Units may move a part of their movement, wait for another unit to move, and then complete their movement, but at the cost of one square of movement.
+
+  This orthogonality also applies to all distances, ranges, and area calculations.  Squares are only considered "adjacent" if they lie in one of the 4 cardinal directions, diagonally positioned squares are considered to be 2 squares away.
+
+Each unit has an attack die, and defense die, representing it's armament and armor respectively.  Each unit also has a troop strength count, which represents how much damage the unit has taken, and likewise, how much of it's attack and defense ability it can bring to bear. Finally, each unit has a range, representing the distance in squares from it's location that it can threaten in attack or defense.  
+
+During the attack phase, a unit with ammunition may initiate an attack against a square within it's range.  To do so, the player calls out an attack, and the target square, and picks up their attack dice to roll in front of the opponent.  If there is a unit in the attacked square, the opponent must pick up their unit's defense dice and make a roll in response.  If there is no unit in the attacked square, the opponent is not required to make a roll. (They are permitted to do so however, in hopes of deceiving their opponent.). If there are multiple units on a square, they all must roll their defense dice.
+
+The results on the dice are then compared.  Any defense die higher than an attack die removes that attack die from the calculation.  Any remaining attack dice become losses inflicted on the defending unit.   After losses are recorded, the defending unit may make a counterattack (if it has ammunition.) The defending unit then makes a counterattack roll, based on it's current troop strength and it's own attack die.  Likewise, the attacking unit must then roll it's defense dice.  Losses against the attacker are calculated the same as before.
+
+The kind of dice used are determined by which kind of unit is involved in combat.  Attack and defense dies may be 2-sided, (a coin, signifying a 1 or a 2) 4 sided (D4) 6 sided (D6) 8-sided (D8) 10-sided (D10) or 12 sided (D12.) The kind of die to use for attack and defense are indicated on the unit's tracking card, but approximate the following: 
+
+Attack dice: 
+D2: Light small arms, as carried by non-combat and specialist units. (Supply trucks, engineering vehicles, anti-air and artillery units)
+D4: Regular infantry equipment, rifles and submachine guns, Mortar fire.  (Standard infantry, irregulars, armored personnel carriers)
+D6: Heavy infantry weaponry, machine guns, grenades, light vehicle mounted weapons, Artillery bombardment, (Heavy infantry, recon units, powered armor)
+D8: Anti-armor weapons, man-portable anti-armor weapons, Anti-material weapons, Heavy Artillery Bombardment. (Anti-tank specialist infantry, armored fighting vehicles, combat walkers)
+D10: Tanks, artillery, Anti-tank guns. (Main battle tanks, Assault walkers, ATG units.)
+D12: Naval guns, Strategic missiles.
+
+Defense dice:
+D2: Unprotected supplies, ammo dumps.
+D4: Infantry units, unarmored and specialist vehicles, (trucks, engineering vehicles, artillery, Anti-tank guns)
+D6: lightly armored vehicles, (Armored personnel carriers, powered armor, recon units)
+D8: medium armor, (Armored fighting vehicles, walkers)
+D10: heavy armor, (Main battle tanks)
+D12: Fortifications and Naval assets
+
+The number of dice used for either an attack or defense roll is set by the unit's current troop strength.  An undamaged unit has a troop strength score of 10, and can get to roll ten dice for it's attack or defense rolls.  Each time a unit takes a loss, it's troop strength is reduced by the number of losses.  
+
+When a unit is reduced to a strength of zero, it is destroyed, it's miniature is removed from the board, and it's tracking card is put away.  If a unit is carrying extra ammunition or supplies, any attack dice left over from destroying the unit is matched against the defense rolls of the supplies, as if they were cached.  After that, any supplies or ammunition left are left on the board in the square the unit previously occupied.
+
+Supplies and Ammunition on the board can also be attacked.  In that case, the attacker rolls both the attack, and the defense dice for the supplies being attacked.  One die is rolled for each supply or ammunition on the attacked square.  For each loss, one supply or ammunition is destroyed.  This also happens if there happens to be a supply or ammunition on a square occupied by another unit, (see below) attacks are made against squares, and whatever happens to be on them, however the unit's defense rolls are made first, and only leftover attack rolls after all units on a square are destroyed continue on to damage supplies and ammunition.
+
+The defense die for a supply is a D4, the defense die for an ammunition is a D2.  However, supplies and ammunition can also be cached.  To signify caching, the miniature on the board is stood up and aligned neatly with the play mat's grid lines.  Supplies and ammo may be cached at the beginning of play, or a unit sharing the same space may cache them at the end of their movement.  When cached, a supply's defense die becomes a D8, an ammunition becomes a D6.  Any supplies or ammunition sharing a space with a unit count as cached for the purposes of attacking.
+
+Additionally, ammunition on the field can explode.  If an ammunition is destroyed, the player who attacked the ammunition makes a D12 attack roll against the square it's on, and one D8 attack roll against each adjacent square.  If an ammunition explodes and shares a square with another ammunition, it also explodes. (No roll is made to determine this, and this happens before the attack rolls are made)
+
+Supplies can also be carried by units. Any unit, regardless of type can carry one supply (either ammo or fuel) certain units such as trucks and engineering vehicles can carry more, and the amount is stated on their unit tracking card.  Supplies can be loaded or unloaded up to the unit's full capacity during the unit's attack phase, and must be done instead of an attack that turn.  While a unit is carrying supplies it cannot make attacks, but it can make counterattacks if it has the ammo.  
+
+Indirect fire units such as artillery and mortars make their attacks during the special attack phase.  Indirect fire units cannot make an attack if they've moved this turn.  When indirect fire units make an attack, the defending unit makes defense rolls as normal, however, they do not have the option to counterattack.  
+
+Indirect fire units have a range indicated by 2 numbers, the first indicates the minimum range the unit threatens, the second indicates the maximum.  If an indirect fire unit has a minimum range of 1 space, it may attack another unit adjacent to it, but in order to do so, it must not make an attack during the special attack phase of that turn, and must instead make it's attack during the regular attack phase. 
+
+Indirect fire units use a different counterattack die than their attack die.  When attacked during the regular attack phase, indirect fire units use a D2 for their counterattack, and do not reduce their ammunition count afterwards.  (They still may not counterattack if their ammunition count is zero) The exception to this is: if an indirect fire unit has a minimum range of 1, hasn't moved this turn, and hasn't made an attack in either the special or regular attack phases of it's last turn, it may counterattack using it's regular attack die.  If it does so, it depletes one ammunition as normal.  
+
+Air assets are not represented by any miniatures on the board, (Unless the skirmish scenario includes an air base or aircraft carrier in a player's starting territory, see below.) Instead, they are kept behind the player's screen as tracking cards only.  This is referred to as "Calling in air support" and is done from the player's reserves.  
+
+Air assets have attack and defense dice, strength, ammunition, and supply requirements just like units on the board, but the way they move and attack are different.  During the special attack phase, a player may direct any air unit they have ready to sortie over one space anywhere on the board.  They then make an attack against that space, using their attack dice like a normal unit.  Unless the unit being attacked is an anti-air unit, it does not get a chance to counterattack.  
+
+After sortieing, the air unit's ammunition and supplies are expended, and the unit may not sortie again until both are fully replenished.  During each of a players Boardroom phases, that player may replenish one supply and one ammunition to each air unit (if they have the required supplies and Ammunition in reserve.) 
+
+Certain air unit's are labeled as "superiority fighters" these units may sortie against another air unit on sortie.  ( if they're fully supplied and had not sortied on the previous turn.  ) In this case, before the defending air asset's rolls for sortie against it's ground target, it first must defend itself from the air superiority fighter.  (Defense dice vs. attack dice, and take losses) If it survives that combat, it can then complete it's sortie with it's remaining strength.  If they sortie against another superiority fighter, then the defending unit has the option to counterattack instead of whatever sortie it had initially been on.  
+
+Air unit's may also fly reconnaissance instead of sortieing.  In that case the air unit expends it's supplies, but not any ammunition.  When flying recon, the player ordering the recon calls out a square on the board.  The opponent then must  give a complete description of exactly what units they have on the square. (For instance, "One unit of irregulars, strength 10,  transporting one supplies. One anti-armor specialist infantry, strength 7, and one cached supplies.)
+
+If a scenario includes an air base or aircraft carrier under a player's control, then aircraft assets ARE represented by pieces on the map.  In this scenario, that player may not call in air support, and instead must operate all air assets from on the board.  
+
+Air assets sortieing from an on-map airbase or aircraft carrier only expend one supply when sortieing. They can be resupplied and replenished from supplies and ammunition cached on the airbase or carrier.  If  there are sufficient supplies and ammunition on the airbase or carrier, the air assets can be resupplied and replenished completely in a single turn.  And finally, The resupply and replenish actions may be done either during the Boardroom, or the movement phase of the turn. (Each unit only once per turn) 
+
+The maximum number of Air assets that can be operated off an airfield or aircraft carrier is 2x the number of squares of the runway/deck. And the maximum number of Air assets that may be ready to sortie off an airbase or aircraft carrier at any time is equal to the number of squares of runway/deck.
+
+In the case of an airfield, all air assets that are ready to sortie must be placed on the runway portion of the airfield, and while they are, they can be attacked by enemy units that get in range.  When attacked on the ground, air assets use a D6 defense die, and have no ability to counterattack. 
+
+Air assets not ready to sortie are considered to be "In the hangar" and are hidden from sight and attack.  If an enemy completes the objective to capture an air base, then control of all air assets on the base goes to them.
+
+In the case of an aircraft carrier, All air assets that are ready to sortie must be placed on the deck of the aircraft carrier.  Like an airbase, air assets not ready to sortie are "below decks" and cannot be seen or individually targeted.   Air assets on the deck can be individually targeted, and the same rules apply as attacking air assets on the ground.  
+If the aircraft carrier is destroyed, then all air assets, supplies, and ammunition are destroyed with it.
+
+Any aircraft on an airbase or aircraft carrier may, instead of sortieing on their special attack phase, "evacuate" the skirmish.  To evacuate means that for the cost of all the air unit's supplies, it may be returned to it's owner's reserves.  Evacuated units must remain in reserves until the end of the skirmish.  They may not sortie, nor reorganize or resupply until the end of the skirmish.  
+
+Anti-air units exist to thwart sorties and recon missions.  If a square is called out for a sortie or recon mission, and you have an anti-air unit that threatens that square, you may make an anti-air attack.  In an anti-air attack, the anti-air unit's attack dice are matched against the aircraft's defense dice, and damage is dealt as with a regular attack.  Unless the aircraft has Anti-radiation missiles, there is no opportunity for the aircraft to make a counterattack.
+
+Anti-radiation missiles are a feature of certain air assets.  If an air asset has them, it can make a counterattack when it comes under attack from an anti-air unit.  
+
+ 
