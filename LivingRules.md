@@ -37,3 +37,18 @@ Objectives are signified on the map via special icons, and the specific rules fo
 > Some Objectives may have other requirements, like destroying them, or recovering them.  See the Battle's Breifing for details.
 
 ### Purchasing Units and Supplies
+If a player has the necessary funds, they may purchase Supply Tokens and new Units from the Catalog. New Units are placed in an area beside the Battlefield called the Reserve, and may be Deployed onto the Battlefield during the player's next turn.  Supply Tokens are kept on hand by the player, and can be played immediately, either to build out the player's supply lines, or to resupply their units.  
+> See the Deployment and Supply sections for details.
+
+### Deploying Units
+Units a player has in Reserve can be moved onto the Battlefield the turn after they were placed into Reserve.  Units Deployed this way can be placed onto the player's Deployment Area marked on the Battlefield. Transport Aircraft Units allow a player to place Deployed Troops freely onto the map (at risk of provoking anti-aircraft retaliation.) Orbital Insertion Units come with a significant additional cost, but can be Deployed to any point on the map.  
+
+### Extraction
+Any time a player has a Unit on their Deployment Area, they may pay a fee to Extract that Unit.  By Extracting that Unit, they move the Unit from the Battlefield to their Reserve.  At the end of a Battle as well, a player may chose to pay the Extraction Cost of any Units on the Battlefield that aren't occupying an Objective.  Units Extracted this way, as well as all other Units and Supplies in Reserve, can be carried over to the next Battle.  Whereas Units and supplies left on the Battlefield are Lost.
+
+### Supplies and Supply Lines
+Units require supplies to Move, Attack, and Counterattack.  Supplies are represented by Supply Tokens, which the player purchases and keeps in Reserve until Played.  Each Supply Token can be used in one of two ways:
+- To Resupply a Unit that has its supplies depleted
+- To Build Out a player's Supply Lines
+Each Unit has a Supply Capacity, denoted on the Unit's Tracking Card by a grid of squares.  Each time the Unit Moves, Attacks, or Counterattacks, the player must remove the appropriate number of Supply Tokens from the Card. If the Unit is adjacent to it's player's Supply Lines, that player may move supplies from their Reserves to the Unit's Card to replenish the spent supplies.
+The Player's Supply Lines are denoted by Supply Tokens instead being placed onto the board.  The Player may place supply tokens adjacent to their Deployment Area, or adjacent to any other supply token they've placed onto the board already.  However, newly placed Supply Tokens must form a chain (The Supply Line) all the way back to the player's Deployment Area. (I.e. Supply Tokens that are cut off from the Deployment area cannot have new supply tokens placed next to them except to reconnect them to the Deployment Area.)
