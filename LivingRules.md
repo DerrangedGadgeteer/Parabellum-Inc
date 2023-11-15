@@ -29,8 +29,14 @@ Each unit has a Movement Value and a Fuel Cost.  If a player decides to move a p
 >Certain types of Terrain on the Battlefield cost more than 1 Movement Value to enter, and other types of Terrain are Impassible by Certain Units.  Forested and Rocky Terrain costs 2 Movement to enter, while Mountainous Terrain costs 3 Movement to enter and is Impassible to any unit except Infantry.
 
 ### Attacking
-Each unit has a Battle Die, an Attack Range, and an Ammunition Cost.  If a player decides to Attack with a particular Unit this turn, they must first remove a number of Supply Tokens from that Unit's Tracking Card equal to its Ammunition Cost.  (If there aren't enough Supply Tokens on the card, that Unit can't Attack this turn.) In order to attack, an Enemy Unit must also be In Range.  A Unit's Attack Range denotes the number of squares away that unit can Attack.  
-> For Details, see the Combat Section.
+Each unit has a Battle Die, Troop Strength, an Attack Range, and an Ammunition Cost.  If a player decides to Attack with a particular Unit this turn, they must first remove a number of Supply Tokens from that Unit's Tracking Card equal to its Ammunition Cost.  
+> If there aren't enough Supply Tokens on the card, that Unit can't Attack this turn.
+
+In order to attack, an Enemy Unit must also be In Range.  A Unit's Attack Range denotes the number of squares away that unit can Attack.  Each Unit's Battle Die denotes how powerful the Unit is in Combat, while its Troop Strength represents both the "health" of the unit, and the number of dice that Unit will get to roll in combat.  
+
+When an Attack is declared, the Attacking player collects a number of that Unit's Battle dice equal to that Unit's Troop Strength.  The defending player collects a number of the Attacked Unit's Battle Dice equal to the Attacked Unit's Troop Strength.  Both players then roll their collected dice and compare values.  For each of the Defending Unit's Battle Dice that meet or exceed an Attacking Unit's die, the Defender can remove one Attacking Die, along with the Defending Die that matches it.  After doing so, any remaining dice the Attacker has become Losses inflicted upon the Defending Unit's Troop Strength.  
+
+>If the Defending Unit has sufficient Supplies, and if the Attacking unit is within the Defending Unit's Range, the Defending player may choose to expend the supplies and Counterattack.  The Counterattack is processed mostly like the attack, except the roles of attacker and defender are reversed.  
 
 ### Objectives
 Objectives are signified on the map via special icons, and the specific rules for their requirements are laid out in the Battle's Breifing.  Typically these involve placing a friendly unit on the Objective Square, and keeping it there for the remainder of the Battle.  
@@ -50,5 +56,17 @@ Any time a player has a Unit on their Deployment Area, they may pay a fee to Ext
 Units require supplies to Move, Attack, and Counterattack.  Supplies are represented by Supply Tokens, which the player purchases and keeps in Reserve until Played.  Each Supply Token can be used in one of two ways:
 - To Resupply a Unit that has its supplies depleted
 - To Build Out a player's Supply Lines
-Each Unit has a Supply Capacity, denoted on the Unit's Tracking Card by a grid of squares.  Each time the Unit Moves, Attacks, or Counterattacks, the player must remove the appropriate number of Supply Tokens from the Card. If the Unit is adjacent to it's player's Supply Lines, that player may move supplies from their Reserves to the Unit's Card to replenish the spent supplies.
-The Player's Supply Lines are denoted by Supply Tokens instead being placed onto the board.  The Player may place supply tokens adjacent to their Deployment Area, or adjacent to any other supply token they've placed onto the board already.  However, newly placed Supply Tokens must form a chain (The Supply Line) all the way back to the player's Deployment Area. (I.e. Supply Tokens that are cut off from the Deployment area cannot have new supply tokens placed next to them except to reconnect them to the Deployment Area.)
+
+Each Unit has a Supply Capacity, denoted on the Unit's Tracking Card by a grid of squares.  Each time the Unit Moves, Attacks, or Counterattacks, the player must remove the appropriate number of Supply Tokens from the Card. If the Unit is adjacent to it's player's Supply Lines, that player may (instead of moving or attacking,) move supplies from their Reserves to the Unit's Card to replenish the spent supplies.
+The Player's Supply Lines are denoted by Supply Tokens instead being placed onto the board.  The Player may place supply tokens adjacent to their Deployment Area, or adjacent to any other supply token they've placed onto the board already.  However, newly placed Supply Tokens must form a chain (The Supply Line) all the way back to the player's Deployment Area. (I.e. Supply Tokens that are cut off from the Deployment area cannot have new supply tokens placed next to them except to reconnect them to the Deployment Area.) The player can place up to as many Supply Tokens as they have in Reserve, but they may not place Tokens they just purchased this turn.  
+
+### Boardroom Dealings
+If a player managed to Destroy an enemy Unit, Capture an Objective, Capture or Destroy enemy supplies, at the conclusion of the turn, that player gets to draw a card from the Business Opportunity Deck and place it into their hand.  
+
+Business Opportunity Cards represent sources of Funds that players can play to generate capital with which they can buy Units and Supplies.  However the funds generated by playing Business Opportunity Cards have Contingincies which the player is liable as long as the card is in play.
+> The Basic types of Business Opportunity are:
+> - Lines of Credit: An upfront influx of cash which must be paid back with interest at the end of the current Battle.
+> - Sponsorships: Free Units that must be returned at the end of the current battle, and for which losses must be paid for.
+> - Investors: An upfront influx of cash which doesn't need to be paid back, but for which the player must pay a dividend at the end of each battle.
+
+The Player may hold 5 Business Opportunity Cards in their hand.  If they draw one with a full hand, they must either play one, or discard one from their hand by shuffling it back into the Business Opportunity Deck.  
