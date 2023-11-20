@@ -9,8 +9,11 @@ The type and position of each Unit is represented on the map by a miniature with
 > Each unit card tracks (using Tokens): 
 > - Troop Strength, representing the health and combat strength of the Unit.
 > - Supplies, representing the fuel and ammunition supplies of the Unit.
+>   
 > Each Unit card also shows:
 > - The Unit's type, with an illustration for flavor
+> - The Unit's Purchase Price, self explanatory
+> - The Unit's Extraction Cost, Indicating how much it will cost to move the unit from the board into reserve so it can be sold or kept into the next Battle
 > - The Unit's Movement Speed, indicating how many grid cells that Unit can move during its turn
 > - The Unit's Battle Die, indicating the kind of die the unit rolls when Attacking or Defending from an Attack
 > - Any special attributes for the Unit, including:
@@ -25,18 +28,25 @@ If a player completes an objective, that player gets Bonus Funds from The Board 
 ## Turn-by Turn Gameplay
 Players take their turns in order by how much money they have at the beginning of the Battle.  (Ties and the initial Battle's turn order are determined by a dice roll.)
 
-During their turn, a player may: 
-- Move any Units they control on the Battlefield
-- Attack another player's Units or Supply Lines with their Units
-- Complete objectives marked on the Battlefield 
-- Purchase new Units
-- Purchase Supplies
+Each turn is divided into 2 Phases: 
+
+The Combat Phase, where players: 
 - Place purchased Units onto the Battlefield at their Start Point
 - Place Supplies onto the Battlefield to form Supply Lines
 - Resupply Units that are adjacent to friendly Supply Lines
-- Make Boardroom Deals to secure Funding for the next turn.
+- Move any Units they control on the Battlefield
+- Attack another player's Units or Supply Lines with their Units
+- Complete objectives marked on the Battlefield
 
-Unless otherwise noted, a player may do these actions in any order on their turn, however all Orders given to a single Unit must be executed all at once. (i.e. a player may not attack with one Unit, move another Unit, and then go back and move the first one.  They'd have to move and attack with the first Unit before moving the second.)  
+And the Boardroom Phase, where players: 
+- Purchase new Units
+- Purchase Supplies
+- Extract Units from their Starting Area
+- Tear Down Supply Lines, returning supplies to Reserve
+- Sell Units and Supplies they don't need
+- Draw and play Business Opportunity Cards
+
+A player may do these actions in any order during the applicable phase, however all Orders given to a single Unit must be executed all at once. (i.e. a player may not attack with one Unit, move another Unit, and then go back and move the first one.  They'd have to move and attack with the first Unit before moving the second.)  
 
 ### Movement
 Each unit has a Movement Value and a Fuel Cost.  If a player decides to move a particular unit this turn, they must first remove a number of Supply Tokens from that unit's Tracking Card equal to its Fuel Cost. (If there aren't enough Supply Tokens on the card, that Unit can't move this turn.) The unit's Movement Value stands for the number of squares the unit can move in one turn.  
@@ -61,7 +71,7 @@ Objectives are signified on the map via special icons, and the specific rules fo
 > Some Objectives may have other requirements, like destroying them, or recovering them.  See the Battle's Breifing for details.
 
 ### Purchasing Units and Supplies
-If a player has the necessary funds, they may purchase Supply Tokens and new Units from the Catalog. New Units are placed in an area beside the Battlefield called the Reserve, and may be Deployed onto the Battlefield during the player's next turn.  Supply Tokens are kept on hand by the player, and can be played immediately, either to build out the player's supply lines, or to resupply their units.  
+If a player has the necessary funds, they may purchase Supply Tokens and new Units from the Market. New Units are placed in an area beside the Battlefield called the Reserve, and may be Deployed onto the Battlefield during the player's next turn.  Supply Tokens are kept on hand by the player, and can be played immediately, either to build out the player's supply lines, or to resupply their units.  
 > See the Deployment and Supply sections for details.
 
 ### Deploying Units
