@@ -30,7 +30,7 @@ Players take their turns in order by how much money they have at the beginning o
 
 Each turn is divided into 2 Phases: 
 
-The Combat Phase, where players: 
+The [Combat Phase](./CombatPhase), where players: 
 - Place purchased Units onto the Battlefield at their Start Point
 - Place Supplies onto the Battlefield to form Supply Lines
 - Resupply Units that are adjacent to friendly Supply Lines
@@ -38,7 +38,7 @@ The Combat Phase, where players:
 - Attack another player's Units or Supply Lines with their Units
 - Complete objectives marked on the Battlefield
 
-And the Boardroom Phase, where players: 
+And the [Boardroom Phase](./BoardroomPhase), where players: 
 - Purchase new Units
 - Purchase Supplies
 - Extract Units from their Starting Area
