@@ -23,3 +23,23 @@ In order to play, the following supplies are required:
 - A glut of table space
 
 # Setup
+Setup begins by opening the Campaign Map Pack.  The Map Pack will include an overview of the included maps, Their associated Objectives and how to Achieve them, the Starting Funds for the Campaign, and any special rules, restrictions, or Campaign-specific Units available for purchase (if applicable.)  
+
+>The whole Map Pack should be available to each player for their review at all times.
+
+The Campaign Overview will indicate which is the first map of the Campaign.  Set out the first map, and provide the Starting Funds to Each player to begin the Build-Up Phase.
+
+# Build-Up Phase
+Once the Map is in place, Funds have been distributed, and all players are satisfied they've read the Campaign Map Pack, players begin purchasing Units and Supplies. Each player has their own area next to the Battle Map called their Reserve, and all purchased units and supply tokens are placed here first. 
+
+Units are purchased by paying the Unit's Price into the game box (Henceforeward called The Market.) and retreiving a Unit Tracking Card and a Mini to match.  The Mini is placed into Reserve, and the Tracking card is kept by the player.  When a Unit is Purchased, every Supply Square is to be automatically filled, and its troop strength should be marked as 10. 
+
+Supplies are purchased from the Market at a cost of 1 credit each, and are placed into that player's Reserve as well. 
+
+Once all players are done purchasing Units and Supplies, Players may place one unit from their Reserve on each of their Starting Area Squares. (As indicated on the Board)
+
+Finally, once all players are done placing their initial Units, all players roll Dice to decide turn order.  Each player rolls one 12-sided die.  The Player who rolls highest (rerolling ties) goes first, with the player to their right going next.  
+
+# Turn Structure
+
+See: [Turn Structure](./TurnStructure.md)
