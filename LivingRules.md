@@ -6,17 +6,17 @@ Parabellum Inc. is played with miniatures and tokens on a gridded play area, rep
 
 The type and position of each Unit is represented on the map by a miniature with a colored flag.  The other attributes of each unit is represented by a tracking card which matches the colored flag of the Unit's Mini.  
 
-Each unit card tracks (using Tokens): 
-> Troop Strength, representing the health and combat strength of the Unit.
-> Supplies, representing the fuel and ammunition supplies of the Unit.
-Each Unit card also shows:
-> The Unit's type, with an illustration for flavor
-> The Unit's Movement Speed, indicating how many grid cells that Unit can move during its turn
-> The Unit's Battle Die, indicating the kind of die the unit rolls when Attacking or Defending from an Attack
-> Any special attributes for the Unit, including:
-> - whether it is Land, Naval, or an Air Unit
-> - If the unit is an Indirect Fire Unit
-> - If the unit can be initially placed outside the player's Starting Area.
+> Each unit card tracks (using Tokens): 
+> - Troop Strength, representing the health and combat strength of the Unit.
+> - Supplies, representing the fuel and ammunition supplies of the Unit.
+> Each Unit card also shows:
+> - The Unit's type, with an illustration for flavor
+> - The Unit's Movement Speed, indicating how many grid cells that Unit can move during its turn
+> - The Unit's Battle Die, indicating the kind of die the unit rolls when Attacking or Defending from an Attack
+> - Any special attributes for the Unit, including:
+>   - whether it is Land, Naval, or an Air Unit
+>   - If the unit is an Indirect Fire Unit
+>   - If the unit can be initially placed outside the player's Starting Area.
 
 Each Unit of soldiers a player commands must first be purchased on the Market in order to be placed on the map.  Units on the map must also stay supplied in order for them to be able to move or attack.  The player must build Supply Lines, forming a continuous path from their Starting Area to the Unit that needs supply.  But be careful! lines can be attacked by your enemies, and those hard-earned supplies can be destroyed (or worse, captured.)
 
