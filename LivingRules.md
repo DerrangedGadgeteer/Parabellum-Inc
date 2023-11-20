@@ -2,11 +2,25 @@
 
 In a game of Parabellum Inc. you play as a middle manager in a near-future private military corporation.  Your task is to direct company assets to achieve military objectives sent down by The Board of Directors.  You are given a meager budget by The Board with which to purchase, supply, and maintain the assets under your command.  There's nowhere near enough money to go around however, and you must use sucesses on the battlefield to both impress The Board and attract Business Partners to fund your operation.  But be careful: money from outside the company comes with strings attached, and if the debts come due when you can't pay, The Board isn't going to be happy.
 
-Parabellum Inc. is played with miniatures and tokens on a gridded play area, representing Units of soldiers and vehicles, as well as supply lines, on a Battlefield. Play is divided into a series of Battles called a Campaign.  Each Battle consists of a map and a set of Objectives.  Once all the objectives of a Battle have been completed, the player with the most funds selects the next Battle.  A player is eliminated if they end a Battle with no funds, and the winner of a Campaign is the last player with funds remaining.
+Parabellum Inc. is played with miniatures and tokens on a gridded play area, representing Units of soldiers and vehicles, as well as supply lines, on a Battlefield. Play is divided into a series of Battles called a Campaign.  Each Battle consists of a map and a set of Objectives.  Once all the objectives of a Battle have been completed, the player with the most funds selects the next Battle.  A player is eliminated if they end a Battle with no funds and outstanding Liabilities, and the winner of a Campaign is the last player with funds remaining.
 
-Each Unit of soldiers a player commands must first be purchased in order to be placed on the map.  Units on the map must also stay supplied in order for them to be able to move or attack.  The player builds Supply Lines by purchasing Supply tokens and placing them on the board, forming a continuous path from their Starting Area to the Unit that needs supply.  But be careful! lines can be attacked by your enemies, and those hard-earned supplies can be destroyed (or worse, captured.)
+The type and position of each Unit is represented on the map by a miniature with a colored flag.  The other attributes of each unit is represented by a tracking card which matches the colored flag of the Unit's Mini.  
 
-Each time a player completes an objective, that player gets Bonus Funds from The Board of Directors, allowing them to pay for new units, and to supply their existing ones.  This isn't the only way to acquire funding though.  If a player destroyed an enemy unit, captured or destroyed an enemy's supply line, or completed an objective that turn, that player gets to draw a card from the Business Opportunity Deck at the end of their turn.  Business Opportunity Cards can then be played to provide further funding, but either must be repaid, or certain requirements must be met to keep the funds.  Failing to repay or meet the requirements of a Business Opportuinity causes that player to be eliminated.
+Each unit card tracks (using Tokens): 
+> Troop Strength, representing the health and combat strength of the Unit.
+> Supplies, representing the fuel and ammunition supplies of the Unit.
+Each Unit card also shows:
+> The Unit's type, with an illustration for flavor
+> The Unit's Movement Speed, indicating how many grid cells that Unit can move during its turn
+> The Unit's Battle Die, indicating the kind of die the unit rolls when Attacking or Defending from an Attack
+> Any special attributes for the Unit, including:
+> - whether it is Land, Naval, or an Air Unit
+> - If the unit is an Indirect Fire Unit
+> - If the unit can be initially placed outside the player's Starting Area.
+
+Each Unit of soldiers a player commands must first be purchased on the Market in order to be placed on the map.  Units on the map must also stay supplied in order for them to be able to move or attack.  The player must build Supply Lines, forming a continuous path from their Starting Area to the Unit that needs supply.  But be careful! lines can be attacked by your enemies, and those hard-earned supplies can be destroyed (or worse, captured.)
+
+If a player completes an objective, that player gets Bonus Funds from The Board of Directors once the Battle is over. This funding allows them to pay for new units, and to supply their existing ones.  This isn't the only way to acquire funding though.  During play, if a player destroyed an enemy unit, captured or destroyed an enemy's supply line, or completed an objective that turn, that player gets to draw a card from the Business Opportunity Deck at the end of their turn.  Business Opportunity Cards can then be played to provide further funding, but either must be repaid, or certain requirements must be met to keep the funds.  Failing to repay or meet the requirements of a Business Opportuinity causes that player to be eliminated.
 
 ## Turn-by Turn Gameplay
 Players take their turns in order by how much money they have at the beginning of the Battle.  (Ties and the initial Battle's turn order are determined by a dice roll.)
@@ -36,7 +50,11 @@ In order to attack, an Enemy Unit must also be In Range.  A Unit's Attack Range 
 
 When an Attack is declared, the Attacking player collects a number of that Unit's Battle dice equal to that Unit's Troop Strength.  The defending player collects a number of the Attacked Unit's Battle Dice equal to the Attacked Unit's Troop Strength.  Both players then roll their collected dice and compare values.  For each of the Defending Unit's Battle Dice that meet or exceed an Attacking Unit's die, the Defender can remove one Attacking Die, along with the Defending Die that matches it.  After doing so, any remaining dice the Attacker has become Losses inflicted upon the Defending Unit's Troop Strength.  
 
->If the Defending Unit has sufficient Supplies, and if the Attacking unit is within the Defending Unit's Range, the Defending player may choose to expend the supplies and Counterattack.  The Counterattack is processed mostly like the attack, except the roles of attacker and defender are reversed.  
+After concluding an attack, the defending player must reduce the Troop Strength of their attacked unit by the number of losses.  If the defending unit is reduced to zero Troop Strength, the unit is destroyed, its mini is removed from the map, and its card, along with all supplies on it is discarded.  
+
+>If the Defending Unit has sufficient Supplies, and if the Attacking unit is within the Defending Unit's Range, the Defending player may choose to expend the supplies and Counterattack.  The Counterattack is processed mostly like the attack, except the roles of attacker and defender are reversed.
+
+>If an enemy unit is in range of an attacking unit, and also in range of a friendly Indirect Fire unit tht hasn't fired this turn, the attacking unit may instead Call In an attack from the Indirect Fire Unit.  In doing so, the attacking unit doesn't expend any Supplies, and instead the Indirect Fire Unit expends supplies and makes the attack in the Attacking Unit's stead.  In this case, the Indirect Fire Unit's Attack Die and Troop Strength are used, and there is no opportunity for a Counterattack after Losses are figured.
 
 ### Objectives
 Objectives are signified on the map via special icons, and the specific rules for their requirements are laid out in the Battle's Breifing.  Typically these involve placing a friendly unit on the Objective Square, and keeping it there for the remainder of the Battle.  
@@ -61,7 +79,7 @@ Each Unit has a Supply Capacity, denoted on the Unit's Tracking Card by a grid o
 The Player's Supply Lines are denoted by Supply Tokens instead being placed onto the board.  The Player may place supply tokens adjacent to their Deployment Area, or adjacent to any other supply token they've placed onto the board already.  However, newly placed Supply Tokens must form a chain (The Supply Line) all the way back to the player's Deployment Area. (I.e. Supply Tokens that are cut off from the Deployment area cannot have new supply tokens placed next to them except to reconnect them to the Deployment Area.) The player can place up to as many Supply Tokens as they have in Reserve, but they may not place Tokens they just purchased this turn.  
 
 ### Boardroom Dealings
-If a player managed to Destroy an enemy Unit, Capture an Objective, Capture or Destroy enemy supplies, at the conclusion of the turn, that player gets to draw a card from the Business Opportunity Deck and place it into their hand.  
+If a player managed to Destroy an enemy Unit, Capture an Objective, Capture or Destroy enemy supplies, at the conclusion of their turn, that player gets to draw a card from the Business Opportunity Deck and place it into their hand.  
 
 Business Opportunity Cards represent sources of Funds that players can play to generate capital with which they can buy Units and Supplies.  However the funds generated by playing Business Opportunity Cards have Contingincies which the player is liable as long as the card is in play.
 > The Basic types of Business Opportunity are:
@@ -70,3 +88,16 @@ Business Opportunity Cards represent sources of Funds that players can play to g
 > - Investors: An upfront influx of cash which doesn't need to be paid back, but for which the player must pay a dividend at the end of each battle.
 
 The Player may hold 5 Business Opportunity Cards in their hand.  If they draw one with a full hand, they must either play one, or discard one from their hand by shuffling it back into the Business Opportunity Deck.  
+
+Each Player may, at any time, place a Business Opportunity Card from their Hand, face-up into their Reserve Area.  Upon doing so, that player adds the Card's value of Funds to their own coffers.    
+
+Each Business Opportunity card has a Payoff Cost, which if paid back to the Market, allows the player to remove the card from their reserve area and shuffle it back into the business opportunity deck.  The player no longer has to pay the liabilities of cards Paid Off this way.
+
+## Inter-Battle Play
+At the end of each Battle, each player must reconcile their funds and liabilities.  First, the player recieves any Completion Bonus they may have earned from completing Objectives during the Battle, then all Business Opportunity Cards' Contingincies must be resolved.  If the player doesn't have enough funds to meet their Business Opportunity Cards' Contingincies, they must either sell units & Supplies they have in Reserve, or they must play any Business Opportunity Cards they have available in their hand.
+
+> Business Opportunity Cards played between Battles have their Contingincies come due at the end of the next Battle.
+
+If a player has sold all units and supplies in their Reserves, and played all Business Opportunity Cards in their hand, and still doesn't have enough funds to pay their Contingincies, that player is Bankrupt and eliminated.  
+
+One 
