@@ -30,5 +30,6 @@ Players must balance the risk of accumulating obligations by playing Business Op
 
 This is a general overview of the game, specific rules are divided into categories, and a sample game (TODO) is shown.
 
-*Se vis lucrum, praeparet bellum.*
+*Igitur qui desiderat lucra, praeparet bellum.*
+
 Those who wish for riches, must prepare for war.
