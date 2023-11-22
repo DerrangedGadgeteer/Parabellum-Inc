@@ -21,8 +21,15 @@ If a player has gone Bankrupt and has been eliminated but wishes to continue pla
 The amount of the Down-Payment is offered at the option of the Patron Player, and with it, the Subcontractor must purchase new Units and Supplies with the purpose of completing the requested Objective.  
 
 The Mission Objective can be either:
-- The delegation of one of the upcoming Battle's Objectives
-- Any specific, quantified goal set by the Patron.  For instance:
-  - Destroy a certain number of enemy units
-  - Prevent the entry of enemy units within a specific area of the map
-  - 
+- The Delegation of one of the upcoming Battle's Objectives
+  - If the Subcontractor completes the Delegated Objective, then the agreed upon Completion Award becomes a Contingency for the Patron
+  - If the Subcontractor fails to complete the Delegated Objective, or if the Patron completes the Objective before the Subcontractor, then the Patron is not obligated to pay the Completion Award.
+  - In either case, the Completion Bonus tied to the Objective by the Battle is paid to the Patron.
+- An Arbitrary Objective set by the patron
+  - An Arbitrary goal must be specific and quantifiable from the state of the game board. For instance:
+    - Destroy a certain number of enemy units
+    - Prevent the entry of enemy units within a specific area of the map
+    - Protect specific Units for the duration of the Battle
+  - If the Subcontractor Completes the exact letter of the Patron's Arbitrary Objective, then the Completion Award becomes a Contingency for the Patron.  
+  - If the Subcontractor fails to complete the exact letter of the Patron's Arbitrary Objective, then the Patron is not obligated to pay the Completion Award.
+
