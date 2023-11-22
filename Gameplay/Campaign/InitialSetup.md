@@ -42,4 +42,4 @@ Finally, once all players are done placing their initial Units, all players roll
 
 # Turn Structure
 
-See: [Turn Structure](./TurnStructure.md)
+See: [Turn Structure](./TurnStructure/TurnStructure.md)
