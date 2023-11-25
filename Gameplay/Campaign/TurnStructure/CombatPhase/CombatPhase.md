@@ -9,6 +9,6 @@ During the Combat Phase, the player can:
 > - [Extract Units](./Deployment.md#Extraction) from their Starting Area
 > - [Resupply Units](./Resupplying.md)
 > - [Build out Supply Lines](./Resupplying.md#SupplyLines)
-> - [Capture Objectives](./CompletingObjectives.md) on the map
+> - [Capture Objectives](./CapturingObjectives.md) on the map
 
 Once the player has completed all of their Combat Phase actions for this turn, they proceed to the [Boardroom Phase](../BoardroomPhase/BoardroomPhase.md)
