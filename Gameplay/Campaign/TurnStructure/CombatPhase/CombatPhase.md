@@ -1,4 +1,4 @@
-#Combat Phase
+# Combat Phase
 
 Each player's turn begins with the Combat Phase
 
