@@ -2,6 +2,8 @@
 
 Each unit has an Ammunition Cost, a Battle Die, and an Attack Range indicated on their Unit Tracking Card.  The Ammunition Cost indicates how many Supply Tokens must be spent from the Unit's Supplies in order to attack.  The Battle Die represents the Unit's ability to do damage, and indicates what kind of die is rolled when an attack is made.  The Attack Range indicates how many squares away the unit can attack.  Attack Range, like Movement, is figured orthogonally.  As such, the four squares adjacent to the unit are considered 1 square away, the four diagonal squares and the next 4 squares further orthogonally are 2, etc.
 
+Each unit also has statistics called Troop Strength, and Supplies which are tracked on the unit's tracking card using Troop and Supply Tokens respectively.  The Troop Strength count ranges between 0 and 10, and represents the amount of lossses the unit has suffered.  Mechanically speaking, the Troop Strength indicates the number of Battle Dice the unit gets to roll when attacking or defending from an attack.  Supplies represent the available fuel and ammunition carried by the unit 
+
 Troop Strength, .  If a player decides to Attack with a particular Unit this turn, they must first remove a number of Supply Tokens from that Unit's Tracking Card equal to its Ammunition Cost.  
 > If there aren't enough Supply Tokens on the card, that Unit can't Attack this turn.
 
