@@ -25,7 +25,11 @@ And so, the game is revealed.  Play is divided into a series of Battles. (Called
 
 Players must balance the risk of accumulating obligations by playing Business Opportunity Cards, with the possiblity of Purchasing new, more powerful Units and acheiving objectives for the bonuses they offer.  Or at least managing some victories on the battlefield will allow them to collect and play more Business Opportunities and keep themselves afloat for one more Battle.  Players must think tactically, making the most of the Units they have, keeping them flush with fuel and ammunition, draining their opponent's resources, forcing them to take on more and more debt to keep fighting.  
 
-This is a general overview of the game, specific rules are divided into categories, and a sample game (TODO) is shown.
+This is a general overview of the game, specific rules are divided into categories, but to begin, the procedure for setting up the game is linked here:
+
+> [Initial Setup and Play](./Campaign/TurnStructure/InitialSetup.md)
+
+And a sample game (TODO) is coming soon.
 
 *Igitur qui desiderat lucra, praeparet bellum.*
 
