@@ -1,3 +1,5 @@
+> [Back to: Combat Phase](./CombatPhase.md)
+
 # Deploying Units
 
 If a player has units in their Reserves, they may Deploy them any time during their Combat Phase.  Deployment involves moving the unit's Mini from the Reserve Area onto the board.  Normal Units can only be placed onto the board in empty squares of the controlling player's Deployment Area (indicated on the map.)  Deployed Units must wait until the next turn in order to move.  This imposes a limit on how many Units a player can place in a single turn.   
