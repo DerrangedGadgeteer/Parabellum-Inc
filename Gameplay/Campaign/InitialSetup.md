@@ -32,14 +32,20 @@ The Campaign Overview will indicate which is the first map of the Campaign.  Set
 # Build-Up Phase
 Once the Map is in place, Funds have been distributed, and all players are satisfied they've read the Campaign Map Pack, players begin purchasing Units and Supplies. Each player has their own area next to the Battle Map called their Reserve, and all purchased units and supply tokens are placed here first. 
 
-Units are purchased by paying the Unit's Price into the game box (Henceforeward called The Market.) and retreiving a Unit Tracking Card and a Mini to match.  The Mini is placed into Reserve, and the Tracking card is kept by the player.  When a Unit is Purchased, every Supply Square is to be automatically filled, and its troop strength should be marked as 10. 
+Units are purchased by paying the Unit's Price into the game box, and retreiving a Unit Tracking Card and a Mini to match.  The Mini is placed into Reserve, and the Tracking card is kept by the player.  When a Unit is Purchased, every Supply Square is automatically filled, and its troop strength should be marked as 10. 
 
-Supplies are purchased from the Market at a cost of 1 credit each, and are placed into that player's Reserve as well. 
+Supplies are purchased from the Market at a cost of 2 credits each, and are placed into that player's Reserve as well. 
+
+> [See Also: Boardroom Phase/Purchasing Units and Supplies](./TurnStructure/BoardroomPhase/Purchasing.md)
 
 Once all players are done purchasing Units and Supplies, Players may place one unit from their Reserve on each of their Starting Area Squares. (As indicated on the Board)
+
+> [See Also: Combat Phase/Deployment](./TurnStructure/CombatPhase/Deployment.md)
 
 Finally, once all players are done placing their initial Units, all players roll Dice to decide turn order.  Each player rolls one 12-sided die.  The Player who rolls highest (rerolling ties) goes first, with the player to their right going next.  
 
 # Turn Structure
 
-See: [Turn Structure](./TurnStructure/TurnStructure.md)
+Each player's Turn begins with a Combat Phase, where the player interacts with Units on the Map.  And it is Concluded by a Boardroom Phase where the player interacts with Units in their Reserve, makes Purchases, Sales, and other Business deals. 
+
+> [See: Turn Structure](./TurnStructure/TurnStructure.md)
