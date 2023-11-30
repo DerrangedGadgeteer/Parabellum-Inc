@@ -49,3 +49,7 @@ All Tokens removed this way must be in range of the Attacking Unit, and Tokens r
 ### Capturing Supplies
 
 Infantry-type Units can also Capture Enemy or derelict Supply Tokens.  This is done during movement, but is covered here for clarity.  If an Infantry Unit moves onto a square with an Enemy or Derelict Supply Token, the Token can be captured, removing it from the map and placing it into the Unit's own Supplies.  
+
+### Collateral Damage
+
+If a Unit is attacked while it is on a square with a Supply Line Token on it, there is a chance the Supply Line suffers Collateral Damage. (Regardless of the outcome of the Attack.)  Once the Attack is concluded, roll a single D4.  On a roll of 1, remove the Supply Line Token as destroyed.   
