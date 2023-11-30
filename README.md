@@ -27,7 +27,7 @@ Players must balance the risk of accumulating obligations by playing Business Op
 
 This is a general overview of the game, specific rules are divided into categories, but to begin, the procedure for setting up the game is linked here:
 
-> [Initial Setup and Play](./Gameplay/Campaign/TurnStructure/InitialSetup.md)
+> [Initial Setup and Play](./Gameplay/Campaign/InitialSetup.md)
 
 And a sample game (TODO) is coming soon.
 
