@@ -1,3 +1,5 @@
+> [Back to: Combat Phase](./CombatPhase.md)
+
 # Securing, Capturing, and Extracting Objectives
 
 Each Battle Map has a unique set of objectives associated with it. There are two basic types of Objective: 
