@@ -18,4 +18,4 @@ The Player may hold 5 Business Opportunity Cards in their hand.  If they draw on
 
 Each Player may, during their Boardroom Phase, place a Business Opportunity Card from their Hand, face-up into their Reserve Area.  Upon doing so, that player adds the Card's value of Funds to their own coffers.    
 
-Each Business Opportunity card has a Payoff Cost, which if paid, allows the player to remove the card from their reserve area and shuffle it back into the business opportunity deck.  The player no longer has to pay the liabilities of cards Paid Off this way.
+Each Business Opportunity card has a Payoff Cost, which if paid, allows the player to remove the card from their reserve area and shuffle it back into the business opportunity deck.  The player no longer has to pay the Contingincies of cards Paid Off this way.
