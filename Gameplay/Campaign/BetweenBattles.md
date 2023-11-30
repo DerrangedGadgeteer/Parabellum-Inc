@@ -1,11 +1,11 @@
 # Inter-Battle Play
-At the end of each Battle, each player must reconcile their funds and liabilities.  First, the player recieves any Completion Bonus they may have earned from completing Objectives during the Battle, then all Business Opportunity Cards' Contingincies must be resolved.  If the player doesn't have enough funds to meet their Business Opportunity Cards' Contingincies, they must either sell units & Supplies they have in Reserve, or they must play any Business Opportunity Cards they have available in their hand.
+At the end of each Battle, each player must reconcile their funds and liabilities.  First, each player recieves any Completion Bonus they may have earned from completing Objectives during the Battle. Second, all Business Opportunity Cards' Contingincies must be resolved.  If the player doesn't have enough funds to meet their Business Opportunity Cards' Contingincies, they must either sell units & Supplies they have in Reserve, or they must play any Business Opportunity Cards they have available in their hand.
 
 > Note: Business Opportunity Cards played between Battles have their Contingincies come due at the end of the **next** Battle.
 
-If a player has sold all units and supplies in their Reserves, and played all Business Opportunity Cards in their hand, and still doesn't have enough funds to pay their Contingincies, that player is Bankrupt and eliminated.  
+If a player has sold all units and supplies in their Reserves, played all Business Opportunity Cards in their hand, and still doesn't have enough funds to pay their Contingincies, that player is Bankrupt and eliminated.  
 
-Once all Contingincies have been resolved, the player with the most Credits may select the next Battle from the Campaign Map Pack.  Change out the Map for the one selected, and another [Build-Up Phase](./InitialSetup.md#"Build-Up Phase") begins.  
+Once all Contingincies have been resolved, the player with the most Credits may select the next Battle from the Campaign Map Pack.  Change out the Map for the one selected, and another [Build-Up Phase](./InitialSetup.md#"Build-Up-Phase") begins.  
 
 > Note: There are a couple differences between an Inter-Battle Build-Up and the Initial Build-Up.
 > - Players may play any Business Opportunity Cards they have remaining to allow them to purchase more Units and Supplies.
