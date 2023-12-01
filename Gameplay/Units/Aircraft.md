@@ -4,7 +4,7 @@ Aircraft work differently from Infantry, Mechanized, or Naval Units.  They don't
 
 ## Basing Aircraft
 
-If the current Battle Map has at least 1 Airbase as an Objective, whichever player has Captured it gets to Base Aircraft Units from their Reserves there.  Basing is similar to Deploying conventional Units, but Aircraft can only be placed on Airbases, and they don't move like other Units.  The Aircraft Mini is placed on a square of the Airbase, and remains there until it's Destroyed or Extracted.  All Aircraft the player has Based are available to provide their capabilities wherever the player needs it.
+If the current Battle Map has at least 1 Airbase as an Objective, whichever player has Captured it gets to Base Aircraft Units from their Reserves there.  Basing is similar to Deploying conventional Units, but Aircraft can only be placed on Airbases.  The Aircraft Mini is placed on a square of the Airbase, and remains there until it's Destroyed or Extracted.  All Aircraft the player has Based are available to provide their capabilities wherever the player needs it starting during the Combat Phase of their next Turn.
 
 > #### Re-Basing or Extracting Aircraft
 > If a player wants to move an Aircraft Unit from its current Base, the player must spend the Unit's Fuel Cost in Supplies to do so.  An Aircraft moved this way cannot be Called In until the next turn's Combat Phase.
